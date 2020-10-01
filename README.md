@@ -4,7 +4,7 @@ A Simple BMI Calculator App
 # Developed Using Dart And Flutter
 
 <p align="center">
-    <img src="readme-assets/screenshots.png" alt="Flutter BMI Calculator Screenshot">
+    <img src="images/screenshots.png" alt="Flutter BMI Calculator Screenshot">
 </p>
 
 A new Flutter application.
