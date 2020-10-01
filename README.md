@@ -21,4 +21,3 @@ A new Flutter application.
 - Encapsulation
 - Polymorphism
 - List
-- Conditional
